@@ -22,6 +22,6 @@ Data-focused Developer with a strong foundation in software engineering, active 
 
 ### 📬 Connect with me
 
-- GitHub:
-- Email:
-- LinkedIn:
+- GitHub:github.com/misiker0
+- Email:misiker07@gmail.com
+- LinkedIn:www.linkedin.com/in/misiker-daniel0
